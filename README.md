@@ -1,17 +1,17 @@
 # About the App
 
-This is a small react app to calculate the fees of students\
+This is a small react app to calculate the fees of students
 
 ## Intial Setups
 
-Move to the project directory,and you can start setup by typing:\
+Move to the project directory,and you can start setup by typing:
 
 ### `npm install`
 
-This is command installs the neccassary node modules for the project to run\
+This is command installs the neccassary node modules for the project to run
 
 
-In the project directory, you can run:\
+In the project directory, you can run:
 
 ### `npm start`
 
