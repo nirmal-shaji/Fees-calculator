@@ -1,0 +1,15 @@
+select {
+    margin: 0 auto;
+    width: 500px;
+    height: 25px;
+  
+  }
+  select>option{
+    color: brown;
+  }
+.fees-form{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top:10%;
+}
