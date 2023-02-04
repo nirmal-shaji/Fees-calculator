@@ -118,8 +118,8 @@ const Form = () => {
 
     return (
       
-    <div className='fees-form' >
-      <div style={{"alignItems":"center"}}>
+    <div className='fees-form'>
+      <div >
          <h3>Fees Form</h3>
       <select
         id="dropdown1"

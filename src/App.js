@@ -6,9 +6,11 @@ import './App.css'
 
 const App = () => {
   return (
-    <>
-      <Form/>  
-    </>
+   <div className='app'>
+         <Form/>   
+   </div>
+  
+ 
   )
 
 };
